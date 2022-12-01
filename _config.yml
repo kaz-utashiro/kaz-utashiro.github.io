@@ -1,0 +1,8 @@
+title: "kaz-utashiro.github.io"
+description: "Kaz Utashiro GitHub Home"
+google_analytics: UA-47549010-1
+show_downloads: false
+theme: minima
+
+gems:
+  - jekyll-mentions
