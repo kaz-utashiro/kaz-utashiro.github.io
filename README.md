@@ -4,8 +4,9 @@
 
 ## Software Product Pages
 
-- [https://kaz-utashiro.github.io/Greple-Home](https://kaz-utashiro.github.io/Greple-Home)
-- [https://kaz-utashiro.github.io/sdif-tools](https://kaz-utashiro.github.io/sdif-tools)
+- [greple](https://kaz-utashiro.github.io/Greple-Home)
+- [sdif/cdif/watchdiff](https://kaz-utashiro.github.io/sdif-tools)
+- [sl](https://kaz-utashiro.github.io/sl)
 
 ## Repositories
 
@@ -15,5 +16,4 @@
 
 ### note
 
-- [ハッカーを読め（0）](https://note.com/tecoli/n/n3839bdfbbb48)
-- [ハッカーを読め（１／７）『すべてがFになる』](https://note.com/tecoli/n/n4682053544c0)
+- [クリエーターページ](https://note.com/tecoli/)
